@@ -1,11 +1,10 @@
 {
-  "description": "Personal website",
-  "repo": "https://github.com/kevinle108/kevinle108.github.io",
   "owner": {
-    "username": "kevinle108",
-    "email": "kevinle108@gmail.com"
+    "username": "kevinfranciscokf1",
+    "email": "kevinfranciscokf1@gmail.com",
+    "discord": "821976026984611850"
   },
   "record": {
-    "CNAME": "kevinle108.github.io"
+    "A": ["https://github.com/kevinfranciscokf1"]
   }
 }
